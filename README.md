@@ -11,6 +11,7 @@ Some factors in the website design
 
 -The 404 link will be in the footer (clicking on the link in the footer will take you to the 404.html page)
 
+
 Post design reflection
 
 Upon the completion of my website, there has been some reworking from my original design. 
