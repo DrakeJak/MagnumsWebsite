@@ -2,10 +2,10 @@
 Website design for Magnums Bar and Eatery
 
 Some factors in the website design
-  •	The magnums logo is a golden colour, so I believe that the navigation bar should include a golden element (maybe the text)
-  •	Instead of having a background colour, I think an appealing design for a bar/ restaurant website would be to have the background pictures consist of element of the establishment. This could be things like the outdoor patio, food, drinks, etc.
-  •	The footer I am thinking of implementing will either have the contact information or hours of operation or both.
-  •	The 404 link will be in the footer (clicking on the link in the footer will take you to the 404.html page)
+  -The magnums logo is a golden colour, so I believe that the navigation bar should include a golden element (maybe the text)
+  -Instead of having a background colour, I think an appealing design for a bar/ restaurant website would be to have the background pictures consist of element of the establishment. This could be things like the outdoor patio, food, drinks, etc.
+  -The footer I am thinking of implementing will either have the contact information or hours of operation or both.
+  -The 404 link will be in the footer (clicking on the link in the footer will take you to the 404.html page)
 
 Post design reflection
 
